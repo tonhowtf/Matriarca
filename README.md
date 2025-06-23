@@ -1,2 +1,2 @@
-# Herobrine
-Bot do discord para o minecraft em evidêcia
+# Matriarca
+Bot do discord para o estudos em evidêcia
